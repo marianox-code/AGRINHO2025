@@ -6,7 +6,7 @@
 --secondary-color: #3CA6A6;
 --text-color: #66a0ad;
 --background-color: #d6f2d5;
---button-hover: #1d4001;
+--button-hover: #5e8b38;
 --font-body: "Chocolate Classical Sans", serif;
 --font-titulo: "Rakkas", serif;
 }
@@ -93,11 +93,11 @@ width: 100%;
 
 
 .conteudo {
-background-color: white;
+background-color: rgb(104, 159, 117);
 padding: 20px;
 margin: 20px 0;
 border-radius: 8px;
-box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+box-shadow: 0 2px 5px rgba(245, 241, 241, 0.1);
 text-align: left;
 }
 
